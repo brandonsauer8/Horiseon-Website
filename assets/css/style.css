@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.mainImage {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.mainContent {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -86,9 +86,9 @@ p {
     background-color: #2589bd;
 }
 
+#benefit-lead,
 #benefit-brand, 
-#benefit-cost, 
-#benefit-lead {
+#benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -96,7 +96,7 @@ p {
 
 #benefit-lead h3, 
 #benefit-brand h3, 
-#benefit-cost h3   {
+#benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
