@@ -9,4 +9,5 @@ There are also comments where each section of the website coding ends and has al
 
 Link to site: https://brandonsauer8.github.io/horiseon-website/
 
- 
+![Here is how the new and improved page turned out!](./assets\images\screencapture-brandonsauer8-github-io-horiseon-website-2021-10-07-16_28_42.png)
+
